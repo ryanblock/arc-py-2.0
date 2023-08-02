@@ -1,4 +1,4 @@
-# Architect Python 2.0 demo
+# Architect x Python 2.0 demo
 
 ## Get started
 
